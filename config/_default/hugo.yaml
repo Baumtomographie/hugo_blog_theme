@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "Creator's Blog (Hugo Theme)" # Website name
-baseURL: 'https://example.com/' # Website URL
+title: "Tree Tomography/Baumtomographie" # Website name
+baseURL: 'https://baumtomographie.de/' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -38,6 +38,16 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
+[languages]
+  [languages.en]
+    title = "Tree tomography"
+    languageName = "English"
+    weight = 1
+  [languages.de]
+    title = "Baumtomographie"
+    languageName = "German"
+    weight = 2
+    
 ############################
 ## ADVANCED
 ############################
