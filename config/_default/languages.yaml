@@ -4,19 +4,19 @@
 
 # Default language
 en:
-  languageCode: en-us
+  languageCode: en
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
-  languageCode: de-de
+de:
+  languageCode: de
   contentDir: content/de
   title: Baumtomographie
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  params:
+    description: Informationen zu aktuellen Studien über Arboristik und urbane Forstwirtschaft
+  menu:
+    main:
+      - name: de
+        url: '#about'
+        weight: 1

@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Arboriculture
+role: Professor Baumkontrolle und Baumpflege
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Applied Science and Arts
+  - name: Hochschule für angewandte Wissenschaft und Kunst
     url: https://www.hawk.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include non-destructive methods for tree risk assessment and tree water relations.
+bio: Meine Forschungsinteressen sind zerstörungsfreie Methoden zur Risikobewertung von Bäumen. Außerdem beschäftige ich mich mit dem Wasserhaushalt von Bäumen und Wäldern.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,11 +54,8 @@ highlight_name: true
 website: "www.baumtomographie.de"
 ---
 
-Steffen Rust is Professor of Arboriculture at the University of Applied Science and Art in Göttingen, Germany. 
-His main fields of research are non-destructive methods for tree risk assessment and tree water relations. 
+Steffen Rust ist Professor für Baumkontrolle und Baumpflege an der Hochschule für angewandte Wissenschaft und Kunst in Göttingen, Deutschland. Seine Hauptforschungsgebiete sind zerstörungsfreie Methoden zur Risikobewertung von Bäumen und der Wasserhaushalt von Bäumen.
 
-He is one of the developers of stress wave tomography for trees. 
+Er ist einer der Entwickler der Schalltomographie für Bäume.
 
-Recent studies concentrate on ground penetrating radar, 
-electrical resistivity tomography for stems and root systems, as well as static pulling tests, analysis of tree vibration, 
-and the application of artificial intelligence in tree risk assessment.
+Neuere Studien konzentrieren sich auf das Bodenradar, elektrische Widerstandstomographie für Stämme und Wurzelsysteme sowie statische Zugversuche, Analyse von Baumschwingungen, und die Anwendung von künstlicher Intelligenz bei der Risikobewertung von Bäumen.
