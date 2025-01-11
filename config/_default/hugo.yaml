@@ -35,18 +35,9 @@ cascade:
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
-[languages]
-  [languages.en]
-    title = "Tree tomography"
-    languageName = "English"
-    weight = 1
-  [languages.de]
-    title = "Baumtomographie"
-    languageName = "German"
-    weight = 2
     
 ############################
 ## ADVANCED

@@ -2,9 +2,10 @@
 author: Steffen Rust
 title: Correlation of wind speed and root plate tilt of trees in urban environment
 tags: 
-    - Tree dynamics
-    - Pulling test
-category: Tree Assessment
+  - Tree dynamics
+  - Pulling test
+categories: 
+  - Tree Assessment
 keywords: tree assessment, pulling test, anchorage, hazard, risk, urban trees
 summary: Tilt of > 0,2° at wind speed of 50-60 km/h leads to critical tilt values at gale winds.
 slug: wind-tipping-curve-reveals-anchorage

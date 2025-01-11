@@ -1,8 +1,11 @@
 ---
 author: Steffen Rust
 title: Zusammenhang zwischen der Windgeschwindigkeit und der Neigung
-tags: ["Tree dynamics", "Pulling test"]
-categories: ["Tree Assessment"]
+tags: 
+  - Tree dynamics
+  - Pulling test
+categories: 
+  - Tree Assessment
 keywords: Baumuntersuchung, Standsicherheit, Wind-Neigungs-Kurve
 summary: Wenn die Neigung bei Windgeschwindigkeiten über 50-60 km/h 0,2° überschreitet, muss mit kritischen Neigungen bei Sturm gerechnet werden
 slug: wind-tipping-curve-reveals-anchorage
